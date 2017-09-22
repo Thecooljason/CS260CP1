@@ -1,0 +1,29 @@
+*
+{
+font-family: times;
+color: slategray;
+}
+
+h1
+{
+color:DarkSlateGray;
+}
+
+h2
+{
+color:dimGray;
+}
+
+#background1 {
+    background-color: black;
+	align: center;
+}
+
+#title1 {
+	align: center;
+}
+
+picture {
+	align: center;
+}
+
